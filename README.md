@@ -1,7 +1,7 @@
 # TemperatureCalculator
 
 ##Description
-
+This Python program will do temperature conversion 
 
 ##Procedures
 Step 1) This program will ask the user to input the temperature in Fahrenheit. Then program will use function to convert temperature.
